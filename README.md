@@ -1,4 +1,4 @@
-## Prediction of Continuous Integration Build Failures
+## DL-CIBuild : Prediction of Continuous Integration Build Failures Using Deep Learning
 This repository contains the source code implementation of DL-CIBuild, the dataset as well as the scripts used to run and reproduce the experiments with the necessary documentation:
 
 <b> Improving the Prediction of Continuous Integration Build Failures Using Deep Learning</b>
